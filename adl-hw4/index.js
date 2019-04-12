@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
       'Two cylindrical pieces that join each other may be line shaded at whatever angle they may join.'
 };
