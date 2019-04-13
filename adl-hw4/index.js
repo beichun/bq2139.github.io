@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'On this Iris, fleet as the wind, sped forth to deliver her message.',
   'example2':
-      'I think, indeed, for my own part, that the good fortune was Weber's.',
+      "I think, indeed, for my own part, that the good fortune was Weber's.",
   'example3':
       'Tokens of recognition were sent to Miss Carroll, and many a retired veteran, beside his evening fire, put down his name to petitions for her just recognition.',
   'example4':
