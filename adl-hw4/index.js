@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'On this Iris, fleet as the wind, sped forth to deliver her message.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I think, indeed, for my own part, that the good fortune was Weber's.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Tokens of recognition were sent to Miss Carroll, and many a retired veteran, beside his evening fire, put down his name to petitions for her just recognition.',
   'example4':
-      'Two cylindrical pieces that join each other may be line shaded at whatever angle they may join.'
+      'It was impossible to refuse the request of a fellow-countrywoman dying in a strange land.'
 };
 
 function status(statusText) {
