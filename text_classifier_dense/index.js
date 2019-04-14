@@ -11,11 +11,11 @@ const examples = {
   'example1':
       'It is a noteworthy circumstance about the variable star in the Whale, deservedly called Mira, or The Wonderful, that it does not always return to the same degree of brightness.',
   'example2':
-      '"There are only two women in the house, Sir Henry," he answered.',
+      'So Roswell sauntered along in rather a discontented frame of mind until he reached Madison Park, where he sat down on a bench, and listlessly watched some boys who were playing there.',
   'example3':
-      'Thus did he vaunt, but Queen Juno made high Olympus quake as she shook with rage upon her throne.',
+      'The peasants say it is the Hound of the Baskervilles calling for its prey.',
   'example4':
-      'As the weary months of October and November wore away, the darkness grew more and more intense and the anxiety more oppressive.'
+      'Thus did he vaunt, but Queen Juno made high Olympus quake as she shook with rage upon her throne.',
 };
 
 function status(statusText) {
