@@ -1,4 +1,5 @@
 
+
 const HOSTED_URLS = {
   model:
       'model_js/model.json',
@@ -8,13 +9,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'On this Iris, fleet as the wind, sped forth to deliver her message.',
+      'It is a noteworthy circumstance about the variable star in the Whale, deservedly called Mira, or The Wonderful, that it does not always return to the same degree of brightness.',
   'example2':
-      "I think, indeed, for my own part, that the good fortune was Weber's.",
+      '"There are only two women in the house, Sir Henry," he answered.',
   'example3':
-      'Tokens of recognition were sent to Miss Carroll, and many a retired veteran, beside his evening fire, put down his name to petitions for her just recognition.',
+      'Thus did he vaunt, but Queen Juno made high Olympus quake as she shook with rage upon her throne.',
   'example4':
-      'It was impossible to refuse the request of a fellow-countrywoman dying in a strange land.'
+      'As the weary months of October and November wore away, the darkness grew more and more intense and the anxiety more oppressive.'
 };
 
 function status(statusText) {
